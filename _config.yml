@@ -1,7 +1,7 @@
 title: أخبار الأنمي بالعربية
 email: example@example.com
 description: "موقع يجمع أخبار الأنمي وملخصاتها بالعربية — تحديث يومي"
-baseurl: ""
-url: "https://yourusername.github.io"   # ← Replace with your username
+baseurl: "/AnimeGadenFamily"  # IMPORTANT ← هذا هو اسم مشروعك
+url: "https://moad-11.github.io"  # رابط حسابك الأساسي
 theme: minima
 lang: ar
