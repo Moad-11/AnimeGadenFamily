@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Anime News Network",
+    "url": "https://www.animenewsnetwork.com/all/rss.xml"
+  },
+  {
+    "name": "Crunchyroll News",
+    "url": "https://www.crunchyroll.com/feed/news"
+  },
+  {
+    "name": "MyAnimeList News",
+    "url": "https://myanimelist.net/rss/news.xml"
+  }
+]
